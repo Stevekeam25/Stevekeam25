@@ -1,6 +1,6 @@
-# 👨‍💻 Stephen Kimani Mwangi – Aspiring Web Developer
+# 👨‍💻 Stephen Keam– Aspiring Web Developer
 
-Hi there! I'm **Stephen Kimani Mwangi**, an aspiring **web developer** passionate about building modern, user-friendly applications using **Python** and **JavaScript**.
+Hi there! I'm **Stephen Keam**, an aspiring **web developer** passionate about building modern, user-friendly applications using **Python** and **JavaScript**.
 
 I love exploring the intersection of clean backend logic and beautiful front-end design. I'm currently sharpening my skills by working on personal projects, learning new frameworks, and contributing to open-source whenever I can.
 
